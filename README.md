@@ -1,6 +1,8 @@
 Arcsecond's Special Catalogues
 ======
 
+See also [Arcsecond's Standard Stars Catalogues](https://github.com/arcsecond-io/standard-stars-catalogues).
+
 This repository is the data source of all Special catalogues of Arcsecond.io APIs.
 Feel free to contribute by opening an Issue if you find a mistake, or to submit ideas of
 new catalogues.
